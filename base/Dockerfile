@@ -8,6 +8,8 @@ RUN pacman -Sy && \
     cmake \
     make \
     valgrind \
+    python \
+    ruby \
     nano
 
 # DEFAULT WORKING DIRECTORY
